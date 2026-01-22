@@ -13,10 +13,10 @@ Key areas include data exploration, basic data cleaning, descriptive analysis, a
 
 ## Repository structure
 IJC437/
-├── data_folder/ # Input CSV files (weather and pollution data)
-├── scripts/ # R analysis script(s)
-├── outputs/ # Generated figures and tables (if saved)
-└── README.md # Project documentation
+├── data_folder/   # Input CSV files (weather and pollution data)
+├── scripts/       # R analysis script(s)
+├── outputs/       # Generated figures and tables (if saved)
+└── README.md      # Project documentation
 
 ## How to run the code
 
