@@ -1,13 +1,22 @@
-# MSc Data Science – Project Portfolio
+# MSc Data Science Portfolio
 
-Welcome. This GitHub Pages site presents selected coursework completed during my MSc Data Science programme.
+This GitHub Pages site presents selected coursework projects from my MSc Data Science degree.
 
-## Coursework
-- **IJC437 – Introduction to Data Science**  
-  Coursework focusing on data exploration, analysis, and reproducible workflows in R.
+## Projects
 
-## Code
-The associated code repositories are organised by module and include documentation on how to run the analysis.
+### IJC437 – Information, Data and Analysis
+Project page:  
+https://mukaddesekercisoy.github.io/msc-data-science-portfolio/IJC437/
 
-## Status
-Some modules and projects will be added at a later stage as they are completed.
+Code:  
+https://github.com/mukaddesekercisoy/msc-data-science-portfolio/tree/main/IJC437
+
+### IJC445 – Data Science in Practice
+Project page:  
+https://mukaddesekercisoy.github.io/msc-data-science-portfolio/IJC445/
+
+(Project details will be added later.)
+
+## Links
+- GitHub profile: https://github.com/mukaddesekercisoy
+- Repository: https://github.com/mukaddesekercisoy/msc-data-science-portfolio
