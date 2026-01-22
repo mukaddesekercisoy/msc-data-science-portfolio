@@ -27,3 +27,5 @@ IJC437/
 5. Install the required R packages if needed.
 6. Run the R script from top to bottom.
 
+## Data sources
+Weather and air quality data are obtained from publicly available open datasets provided by UK monitoring services.
